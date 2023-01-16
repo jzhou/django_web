@@ -1,0 +1,2 @@
+set -x
+python manage.py runserver 8000
